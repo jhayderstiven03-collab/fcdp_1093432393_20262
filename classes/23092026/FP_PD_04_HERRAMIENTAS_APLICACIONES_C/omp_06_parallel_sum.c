@@ -11,7 +11,7 @@
 
 #define N 1000000000
 
-// add an integer number between 1 to 10 in ech position of the array with a for
+// add an integer number in ech position of the array with a for
 // loop
 void fill_array(int *arr) {
   for (int i = 0; i < N; i++) {
